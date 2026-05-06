@@ -6,9 +6,9 @@
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/YOURUSERNAME">LinkedIn</a> •
+  <a href="https://linkedin.com/in/heyabhishekdev">LinkedIn</a> •
   <a href="mailto:yourmail@gmail.com">Email</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
+  <a href="https://abhishek-portfoliooo.vercel.app/">Portfolio</a>
 </p>
 
 </div>
