@@ -5,7 +5,7 @@
 ### Frontend Engineer • Next.js Enthusiast • Building Modern Web Experiences
 
 <p align="center">
-  <a href="https://github.com/YOURUSERNAME">GitHub</a> •
+
   <a href="https://linkedin.com/in/YOURUSERNAME">LinkedIn</a> •
   <a href="mailto:yourmail@gmail.com">Email</a> •
   <a href="https://yourportfolio.com">Portfolio</a>
@@ -158,9 +158,7 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://github.com/Alex1Shelby">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+ 
 </p>
 
 ---
