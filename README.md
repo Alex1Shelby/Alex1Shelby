@@ -68,49 +68,60 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
 
 ## 💻 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust" />
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
-## ⚛️ Frontend
+## ⚛️ Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass" />
-  <img src="https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock" />
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
 
 ---
 
-## 🔧 Backend & Database
+## 🔧 Backend & APIs
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis" />
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
 </p>
 
 ---
 
-## 🗄️ ORM & Tools
+## 🗄️ Databases & ORM
 
-<p>
-  <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma" />
-  <img src="https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=drizzle" />
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+---
+
+## ☁️ Deployment & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
