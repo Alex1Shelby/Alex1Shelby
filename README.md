@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Alex;Frontend+Developer;Next.js+Developer;" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Clash+Display&weight=700&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Alex;Frontend+Developer;Next.js+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
 
-### Frontend Engineer • Next.js Enthusiast • Building Modern Web Experiences
+### Frontend Engineer • Next.js Enthusiast • Crafting Premium Digital Experiences
 
 <p align="center">
 
