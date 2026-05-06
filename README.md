@@ -119,9 +119,9 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex1Shelby&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alex1Shelby&theme=tokyonight&hide_border=true" />
 
 </div>
 
