@@ -150,7 +150,7 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOURUSERNAME">
+  <a href="https://linkedin.com/in/heyabhishekdev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 
@@ -158,7 +158,7 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://github.com/YOURUSERNAME">
+  <a href="https://github.com/Alex1Shelby">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
