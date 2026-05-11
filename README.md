@@ -99,7 +99,7 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
----
+--
 
 ## 🗄️ Databases & ORM
 
@@ -122,7 +122,7 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+--
 
 # 📊 GitHub Analytics
 
@@ -136,7 +136,7 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
 
 </div>
 
----
+--
 
 # 🏆 GitHub Trophies
 
