@@ -128,13 +128,35 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex1Shelby&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex1Shelby&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=Alex1Shelby&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Alex1Shelby&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Shelby&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alex1Shelby&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex1Shelby&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+
 
 # 🌱 Currently Learning
 
