@@ -174,26 +174,6 @@ I primarily work with the JavaScript/TypeScript ecosystem, especially React, Nex
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alex1Shelby&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex1Shelby&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 - Advanced Next.js architecture
