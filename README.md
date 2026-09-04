@@ -1,14 +1,15 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&pause=950&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Alex;Frontend+Developer;Next.js+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&pause=950&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Alex;Full+Stack+Developer;Next.js+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 
-### Frontend Engineer • Next.js Enthusiast • Crafting Premium Digital Experiences
+### Full Stack Developer • Next.js Enthusiast • Building Scalable & Modern Web Applications
 
 <p align="center">
 
   <a href="https://linkedin.com/in/heyabhishekdev">LinkedIn</a> •
   <a href="mailto:yourmail@gmail.com">Email</a> •
   <a href="https://abhishek-portfoliooo.vercel.app/">Portfolio</a>
+
 </p>
 
 </div>
@@ -17,15 +18,19 @@
 
 # 🧠 Who I Am
 
-Frontend-focused developer with strong foundations in building scalable and interactive web applications using modern JavaScript ecosystems.
+Full Stack Developer focused on building modern, scalable, and high-performance web applications.
 
-I love working with Next.js and creating smooth, responsive, and high-performance user experiences with clean architecture and modern UI systems.
+I enjoy working across the entire development stack — from crafting polished and responsive user interfaces to designing APIs, databases, authentication systems, and backend architectures.
 
-- ⚛️ Specialized in React & Next.js ecosystem
-- ❤️ Passionate about Next.js development
-- 🎨 Focused on modern UI/UX experiences
-- 📱 Building responsive and accessible interfaces
-- 🚀 Exploring backend systems & scalable architecture
+I primarily work with the JavaScript/TypeScript ecosystem, especially React, Next.js, Node.js, and modern database technologies.
+
+- ⚛️ Building modern applications with React & Next.js
+- 🧩 Developing scalable full-stack architectures
+- 🎨 Creating polished and responsive UI/UX experiences
+- 🔧 Building REST APIs and backend systems
+- 🗄️ Working with SQL & NoSQL databases
+- 🔐 Implementing authentication and secure API workflows
+- 🚀 Exploring scalable backend architecture & system design
 - 🦀 Currently learning Rust and deeper backend concepts
 
 ---
@@ -37,20 +42,49 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
 - Modern React applications
 - Next.js App Router architecture
 - Reusable UI component systems
-- Motion & animation-based interfaces
-- Mobile-first responsive design
+- Responsive & mobile-first interfaces
+- Motion & animation-based experiences
 - Type-safe frontend development
 - GSAP-powered web animations
+- Performance optimization
 
 ---
 
-## 🚀 Full Stack Learning
+## ⚡ Backend Development
 
-- REST API integration
-- Prisma ORM workflows
-- Redis rate limiting
-- Backend fundamentals with Node.js
-- Database design and management
+- REST API development
+- Node.js & Express applications
+- Authentication & authorization
+- JWT-based authentication
+- API security & validation
+- Rate limiting with Redis
+- Server-side application logic
+- Backend architecture & scalability
+
+---
+
+## 🗄️ Databases & Data
+
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+- Drizzle ORM
+- Redis
+- Database schema design
+- Data modeling
+- Query optimization
+
+---
+
+## 🚀 Full Stack Development
+
+- End-to-end web applications
+- Frontend ↔ API integration
+- Authentication systems
+- Database-driven applications
+- API architecture
+- Scalable application structure
+- Deployment & production workflows
 
 ---
 
@@ -58,9 +92,11 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
 
 - Clean dashboard systems
 - Interactive user flows
-- Minimal and modern UI patterns
+- Minimal & modern UI patterns
 - Scroll animations & transitions
-- Maintainable frontend architecture
+- Responsive layouts
+- Reusable component architecture
+- Performance-focused interfaces
 
 ---
 
@@ -70,7 +106,7 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
@@ -156,31 +192,36 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
 
 </div>
 
-
+---
 
 # 🌱 Currently Learning
 
 - Advanced Next.js architecture
-- Backend scalability concepts
+- Scalable backend systems
+- System design
 - Rust fundamentals
-- System design basics
-- Performance optimization
+- Database optimization
+- Performance engineering
+- Distributed systems fundamentals
 
 ---
 
 # 🎯 Career Interests
 
-- Frontend Engineering
-- Motion UI Development
-- Full Stack Applications
-- Product-focused Web Experiences
-- Scalable Frontend Architecture
+- Full Stack Engineering
+- Next.js & React Development
+- Backend Architecture
+- Scalable Web Applications
+- Product-focused Engineering
+- System Design
+- Performance & Developer Experience
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
+
   <a href="https://linkedin.com/in/heyabhishekdev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -189,14 +230,17 @@ I love working with Next.js and creating smooth, responsive, and high-performanc
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
   </a>
 
- 
+  <a href="https://abhishek-portfoliooo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⚡ “Building modern interfaces with performance, simplicity, and scalability in mind.”
+### ⚡ “Building scalable products from pixels to production.”
 
 </div>
 
