@@ -8,7 +8,7 @@
 
   <a href="https://linkedin.com/in/heyabhishekdev">LinkedIn</a> •
   <a href="mailto:yourmail@gmail.com">Email</a> •
-  <a href="https://abhishek-portfoliooo.vercel.app/">Portfolio</a>
+  <a href="https://abhi-creates.vercel.app/">Portfolio</a>
 
 </p>
 
@@ -210,7 +210,7 @@ I primarily work with the JavaScript/TypeScript ecosystem, especially React, Nex
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://abhishek-portfoliooo.vercel.app/">
+  <a href="https://abhi-creates.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 
